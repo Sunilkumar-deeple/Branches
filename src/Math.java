@@ -15,5 +15,13 @@ public class Math {
         int z=(a*b);
         System.out.println(z);
 
+
+        //division
+
+        int d=20;
+        int e=3;
+        int f=(d/e);
+        System.out.println((float)f);
+
     }
 }
